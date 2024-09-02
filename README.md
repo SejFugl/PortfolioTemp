@@ -97,3 +97,30 @@ Næste uge planlægger jeg at dykke dybere ned i min læring af React, TypeScrip
 
 ### Litteraturliste - Uge 2
 Samme som uge 1
+
+# Uge 3
+### Oversigt - Uge 3:
+- I denne uge fokuserede jeg på at forbedre mine eksisterende UI designs af hjemmesiden for mit projekt i kombination med min læring om sitemaps, user flows og wireframes. Jeg brugte blandt andet online værktøjer såsom dribbble, behance og diviexpress til at få inspiration til mine egne designs og dermed skabe noget nyt.
+
+- Jeg tog også en React Crash Course i denne uge, som fokuserede på routing og navigation i en hjemmeside. Dette hjalp mig i høj grad, da det har givet mig den nødvendige viden til at oprette flere pages i vores hjemmeside og navigere mellem dem nemt og hurtigt.
+
+### Udfordringer og løsninger - Uge 3:
+- Udfordringen i uge 3 var primært at forbedre mine UI designs, da de ikke var særlig tilfredsstillende til at begynde med. Jeg følte, at jeg brugte uddateret former og farver i tidligere wireframes, som jeg efterfølgende rettede op på ved at kigge på moderne designs på internettet, som bruges i nutiden. Efterfølgende kunne jeg endelig komme på et tilfredsstillende design, som matcher nutildagens design til en fin grad.
+
+### Refleksion - Uge 3:
+- Uge 3 var en fin uge, hvor jeg afsatte en del tid til udvikling i vores teams projekt. Her var det nødvendigt for mig at vise mine designs til andre teammedlemmer og interessenter til at få dannet et billede af, hvilke områder jeg skal fokusere mere på. Det bliver dog vigtigt for mig at afsætte noget tid til mere læsning og læring, når jeg skal videre til de næste faser af vores projekt.
+
+### Plan for næste uge - Uge 3:
+- I uge 4 vil jeg fokusere på at forbedre flere af mine UI-designs og efterfølgende prøve at implementere dem som React-komponenter og pages med routing. Til UI/UX vil jeg fokusere på at lære farveteori, typografi og ikonografi, som jeg forhåbentlig kan benytte i min generelle UI/UX design. Jeg overvejer også at skifte min React-læring til platformen Scrimba for at prøve at se, hvordan den interaktive læring på platformen kan hjælpe med at forstærke og gøre mine React-færdigheder mere solide.
+
+### Materialer - Uge 3
+![image](https://github.com/user-attachments/assets/9c123950-bc50-4a94-8d4d-6cdf84f419fa)
+![image](https://github.com/user-attachments/assets/76950d5e-4055-495f-9d90-611b0a9e0269)
+![image](https://github.com/user-attachments/assets/bd158c8a-6264-4c10-9cd8-129a3af1864a)
+
+### Litteraturliste - Uge 3
+- Udemy kursus i UI/UX - Section 5: User Flows
+- Udemy kursus i UI/UX - Section 6: Sitemaps
+- Udemy kursus i UI/UX - Section 6: Wireframes
+
+- React Crash Course: React Crash Course 2024
