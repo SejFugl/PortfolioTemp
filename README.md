@@ -123,4 +123,41 @@ Samme som uge 1
 - Udemy kursus i UI/UX - Section 6: Sitemaps
 - Udemy kursus i UI/UX - Section 6: Wireframes
 
-- React Crash Course: React Crash Course 2024
+# Uge 4 + 5
+### Oversigt - Uge 4 + 5:
+- I de seneste to uger har mit primære fokus været at forbedre mit UI-design ved hjælp af feedback fra mine teammedlemmer og interessenter. Jeg har især arbejdet med spacing og grids, hvilket har hjulpet mig med at placere UI-elementerne mere korrekt og skabe en bedre brugeroplevelse. Ved at følge best practices for grids har jeg opnået en mere balanceret og overskuelig struktur på mine sider.
+
+- Farver har også været en vigtig del af mit arbejde. Jeg har arbejdet med at skabe bedre kontraster i mit design, hvilket har gjort elementerne mere tydelige og brugervenlige. Desuden har jeg inkorporeret ikoner til at repræsentere logiske UI-handlinger, hvilket har bidraget til at gøre mine interfaces mere intuitive.
+	
+- Jeg har også dykket dybere ned i design patterns, som har hjulpet mig med at forbedre de eksisterende UI-designs og gøre dem mere konsistente og moderne. Det har været vigtigt for mig at sikre, at mine designs ikke kun ser godt ud, men også er funktionelle og følger de nyeste standarder inden for UI/UX-design.
+
+### Udfordringer og løsninger - Uge 4 + 5:
+- En af de største udfordringer i disse uger har været at tage feedback fra teammedlemmerne og implementere det på en måde, der forbedrer mine designs uden at gå på kompromis med min egen vision. Ved at bruge feedback aktivt har jeg formået at justere mit design, så det imødekommer både brugerkrav og æstetiske standarder.
+	
+- En anden udfordring har været at navigere i spacing og grids på en effektiv måde. Jeg har brugt tid på at eksperimentere med forskellige grid-strukturer og har endelig fundet en opsætning, der skaber en naturlig flow for brugeren. Dette har resulteret i et mere harmonisk design.
+
+### Refleksion - Uge 4 + 5:
+- Disse uger har været meget lærerige i forhold til mit designarbejde. Selvom jeg havde planlagt at bruge tid på React, valgte jeg at fokusere på det overordnede design først, da jeg indså, at et solidt designfundament ville gøre implementeringen langt nemmere senere. Jeg har lært, at når jeg optimerer mit design tidligt, bliver selve kodningen i React, HTML og CSS en mere strømlinet proces.
+
+### Plan for næste uge - Uge 4 + 5:
+- I uge 6 vil jeg begynde at implementere mine optimerede designs i React og arbejde videre med HTML og CSS for at få designet til at fungere i praksis. Jeg vil også bruge den viden, jeg har opnået om accessibility og motion in UX design fra mine Udemy-kurser, så jeg kan skabe en hjemmeside, der både er funktionel og engagerende for brugerne.
+
+### Materialer - Uge 4 + 5
+![image](https://github.com/user-attachments/assets/0d33f5d2-ec2f-4dad-b111-4dff07cf6631)
+![image](https://github.com/user-attachments/assets/d7c9224a-e2e5-4bbf-b664-7a31640a445b)
+![image](https://github.com/user-attachments/assets/eaeec9e6-4480-4c3e-be89-905f17efd500)
+![image](https://github.com/user-attachments/assets/07a441b2-ec1d-4235-b070-31ab535780ea)
+
+### Litteraturliste - Uge 4 + 5
+- Udemy kursus i UI/UX - Section 8: Prototyping
+- Udemy kursus i UI/UX - Section 9: Feedback
+- Udemy kursus i UI/UX - Section 10: Spacing and Grids
+- Udemy kursus i UI/UX - Section 11: Typography
+- Udemy kursus i UI/UX - Section 12: Color
+- Udemy kursus i UI/UX - Section 13: Imagery and Iconography
+- Udemy kursus i UI/UX - Section 14: Forms and UI Elements
+- Udemy kursus i UI/UX - Section 15: Accessibility
+- Udemy kursus i UI/UX - Section 16: Design Patterns
+- Udemy kursus i UI/UX - Section 17: Mobile Design
+- Udemy kursus i UI/UX - Section 18: Visual Style and Exploration
+- Udemy kursus i UI/UX - Section 19: Motion in UX Design
